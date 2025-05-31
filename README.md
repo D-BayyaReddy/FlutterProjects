@@ -27,7 +27,7 @@ Install my-project with **Git**
     3. install the vs code form https://code.visualstudio.com/docs/?dv=win64user
         ==>install dart, flutter, emulator manager extentions
 ```
-
+copy each link and paste your browser
 
 ## Creating First Flutter Project
  open cmd promt by pressing ```Win + R``` on keyboard
@@ -48,11 +48,17 @@ cd flutter_project
 code .
 ```
 
-## Deployment
+## Deployment of my code to your project
 
 To deploy this project run
 
-```bash
-  npm run deploy
 ```
+  1. open lib\main.dart in your project
+  2. copy my code and paste in that file
+  3. select your emulator with the help of extention
+  4. start debugging
+```
+Emulator will start running your app. Like this you can pratice 
 
+
+## If it's helped to you, could you please contribute a star to this project⭐⭐
