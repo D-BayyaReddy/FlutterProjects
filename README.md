@@ -1,8 +1,8 @@
 
 # Flutter Projects
 
-As a complete beginner i'm learning the flutter with project based.
-i pratice everytime bby picking new project idea from interner 
+As a complete beginner, I'm learning Flutter with a project-based based.
+I practice every time by picking a new project idea from the internet 
 
 
 ## Clone this project with git
@@ -17,22 +17,22 @@ Install my-project with **Git**
 ## Installation of Flutter 
 
 ```
-    1. install java jdk form https://www.oracle.com/java/technologies/downloads/#jdk24-windows
-    2. install Flutter SDK form https://docs.flutter.dev/get-started/install/windows
-        ==> choose android to start downloading
-        ==> create a folder in c drive and navigate to the bin folder and copy the path and paste in the system environmental variables
-    3. install Android Stuido form https://developer.android.com/studio
-        ==> install virtual android device
+    1. Install Java JDK from https://www.oracle.com/java/technologies/downloads/#jdk24-windows
+    2. Install Flutter SDK from https://docs.flutter.dev/get-started/install/windows
+        ==> choose Android to start downloading
+        ==> create a folder in the C drive and navigate to the bin folder, copy the path, and paste it in the system environmental variables
+    3. Install Android Studio from https://developer.android.com/studio
+        ==> Install a virtual Android device
         ==> install toolchain 
-    3. install the vs code form https://code.visualstudio.com/docs/?dv=win64user
-        ==>install dart, flutter, emulator manager extentions
+    3. Install VS Code from https://code.visualstudio.com/docs/?dv=win64user
+        ==>install Dart, Flutter, and emulator manager extensions
 ```
-copy each link and paste your browser
+Copy each link and paste your browser
 
 ## Creating First Flutter Project
  open cmd promt by pressing ```Win + R``` on keyboard
  enter ```cmd``` in the run and hit ```Enter```
-enter in this cmd
+Enter this command
 
 ``` 
 cd desktop
@@ -40,9 +40,9 @@ mkdir Flutter
 cd Flutter
 flutter create flutter_project
 ```
-This will create the flutter folder on desktop and inside that folder it creates the flutter project names ``` flutter_project ```
+This will create the flutter folder on the desktop, and inside that folder, it creates a flutter project named `flutter_project `
 ,
-now run on cmd
+Now run on cmd
 ```
 cd flutter_project
 code .
@@ -50,15 +50,15 @@ code .
 
 ## Deployment of my code to your project
 
-To deploy this project run
+To deploy this project, run
 
 ```
   1. open lib\main.dart in your project
-  2. copy my code and paste in that file
-  3. select your emulator with the help of extention
-  4. start debugging
+  2. Copy my code and paste it into that file
+  3. Select your emulator with the help of the extension
+  4. Start debugging
 ```
-Emulator will start running your app. Like this you can pratice 
+The emulator will start running your app. Like this, you can practice 
 
 
-## If it's helped to you, could you please contribute a star to this project⭐⭐
+## If it's helped you, could you please contribute a star to this project⭐⭐
